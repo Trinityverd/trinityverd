@@ -1,0 +1,23 @@
+{
+  "site": {
+    "lang": "en",
+    "title": "Trinity Verd",
+    "titleDelim": " | ",
+    "description": "A key player in the agricultural produce industry, providing sustainable solutions that benefit both people and the planet.",
+    "keywords": "Trinity Verd, Trinity, Trinity Castor, Trinity Kitui,",
+    "url": "https://trinityverd.co.ke"
+  },
+  "modules": {
+    "googleFonts": "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,300,400,600,700,800%7COpen+Sans+Condensed:300&subset=latin,cyrillic",
+    "bodyJs": true,
+    "headJs": true,
+    "customCss": true,
+    "noscriptCss": false,
+    "twitterCard": false,
+    "openGraph": false
+  },
+  "links": {
+    "twitterCardCreator": "===twittercard-creator-account===",
+    "twitterCardAccount": "===twittercard-main-account==="
+  }
+}

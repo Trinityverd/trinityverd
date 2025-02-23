@@ -84,7 +84,8 @@ body{
 	margin-top: 30px;
 }
 .common-section__header h3{
-	color: black;
+	font-weight: bold;
+  color: black;
 	margin-top: 30px;
 }
 	.common-section__header{

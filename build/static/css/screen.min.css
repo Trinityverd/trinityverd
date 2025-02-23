@@ -960,11 +960,11 @@ button:focus {
 		.Service .boxx1{
 		margin-left: 25px;
 		height: 100%;
-		width: 337px;
+		width: 95%;
 		}
 		.Service .boxx{
 		height: 100%;
-		width: 337px;
+		width: 95%;
 		}
 	.Service .boxx p{
 	font-size: 15px;
@@ -1228,9 +1228,11 @@ button:focus {
 }
 	.Service .boxx{
 	margin-left: 10px;
+  width: 96%;
+	height: 100%;
 	}
 	.Service .boxx1{
-	width: 90%;
+	width: 96%;
 	height: 100%;
 	margin-left: 10px;
 	}
@@ -1274,6 +1276,11 @@ button{
 	padding: 8px 6px;
 	font-size: 14px;
 }
+  .processx .boxx{
+  width:96%
+  height:100%
+  margin-left:25px;
+  }
 	.processx .boxx i{
 	font-size: 20px;
 	margin-bottom: 10px;

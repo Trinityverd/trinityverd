@@ -956,6 +956,12 @@ iframe{
 		h4{
 			font-size:18px
 		}
+    .common-section__header h3{
+		font-size: 30px;
+		}
+		.common-section__header p{
+		font-size: 20px;
+		}
 		.Service .boxx1{
 		margin-left: 25px;
 		height: 100%;
@@ -1005,6 +1011,12 @@ iframe{
 				width: 100px;
 				margin-left: 5px;
 			}
+      .common-section__header h3{
+	  	font-size: 30px;
+	  	}
+	  	.common-section__header p{
+	  	font-size: 20px;
+	  	}
 			.container{
 				margin-right: 10px;
 				margin-left: -3px;
@@ -1074,6 +1086,12 @@ iframe{
 				.home-section__header-label{
 					font-size:25px
 				}
+        .common-section__header h3{
+		    font-size: 30px;
+		    }
+		    .common-section__header p{
+		    font-size: 20px;
+		    }
 				.services{
 					height:auto;
 					margin-top:0;
@@ -1217,6 +1235,12 @@ iframe{
 					.home-section__header{
 						padding:100px 0 300px
 					}
+          .common-section__header h3{
+		      font-size: 30px;
+		      }
+		      .common-section__header p{
+		      font-size: 20px;
+		      }
 	.mvission .boxx h4{
 	font-size: 22px;
 	letter-spacing: 1px;
